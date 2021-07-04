@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(32, 221, 228)  ;
+    
+}
+.top{
+    font-size: 76px;
+     color: rgb(180, 23, 115);
+       border:rgb(12, 4, 49)  10px  double;
+        background-color: rgb(44, 197, 146);
+        text-align: center;
+
+}
+.a{ 
+    text-align: center;
+     font-size:60px ;
+     color: purple;
+
+}
+.b{
+    font-size: 68px;
+    color: black;
+    text-align: left;
+}
+.c{
+    text-align: center;
+     font-size : 40px;
+     color: purple;
+
+}
+
+.d{
+    font-size: 68px;
+     color: black;
+       text-align: left;
+}
+
+.e{
+    text-align: center;
+    font-size : 50px;
+    color: rgb(180, 23, 115);
+
+}
+
+.e2{
+    font-size: 70px ;
+
+}
+
+.f{
+    text-align: center;
+    font-size : 40px;
+    color: purple;
+    
+
+}
+
+
+.f2{
+    text-align: center;
+    font-size : 40px;
+    color: purple;  
+}
+
+.f3{
+    text-align: center;
+    font-size : 40px;
+    color: rgb(26, 128, 0);  
+}
+
+.g{
+    text-align: left;
+     font-size: 18px;
+     color: brown;
+}
+
+.h{
+    text-align: left;
+    font-size: 18px;
+    color: rgb(231, 10, 10);
+}
